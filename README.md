@@ -102,6 +102,6 @@ Os resultados e as análises do projeto estão disponíveis na pasta `4-Document
 
 Este projeto foi desenvolvido em equipe. Você pode encontrar o repositório original (utilizado durante a disciplina) e informações sobre os demais colaboradores no link abaixo.
 
-* **Link do Repositório Oficial**: https://github.com/dudalbuquerque/ETL-ELT/blob/main/ELT/ELT.ipynb
+* **Link do Repositório Oficial**: https://github.com/dudalbuquerque/ETL-ELT/tree/main
 
 ---
