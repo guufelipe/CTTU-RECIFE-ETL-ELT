@@ -99,16 +99,15 @@ Os resultados e as análises do projeto estão disponíveis na pasta `4-Document
 * Apresentação em slides.
 
 ## Repositório Oficial e Colaboradores
+Integrantes da equipe:
+    - Adriana Theil Melcop Castro - atmc
+    - Eduarda Vitória Albuquerque Sales - evas
+    - Gustavo Felipe Alves da Silva - gfas2
+    - Júlia Zovka de Souza - jzs
+    - Lucas Guimarães Fernandes - lgf
+    - Marcela Pereira Raposo - mpr
 
 Este projeto foi desenvolvido em equipe. Você pode encontrar o repositório original (utilizado durante a disciplina) e informações sobre os demais colaboradores no link abaixo.
-Integrantes da equipe:
-
-Adriana Theil Melcop Castro - atmc
-Eduarda Vitória Albuquerque Sales - evas
-Gustavo Felipe Alves da Silva - gfas2
-Júlia Zovka de Souza - jzs
-Lucas Guimarães Fernandes - lgf
-Marcela Pereira Raposo - mpr
 * **Link do Repositório Oficial**: https://github.com/dudalbuquerque/ETL-ELT/tree/main
 
 ---
